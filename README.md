@@ -1,6 +1,7 @@
 ### Hi there 👋
 Sou felipe e estou apredendo laravel
 
+- 🎵 Eu gosto muito de escutar musicas durante o dia
 - 🔭 Estou trabalhando em aprender mais sobre laravel
 - 🌱 Estou aprendendo um novo framework chamado laravel
 - 👯 Procuro colaborar com projeto php/laravel
