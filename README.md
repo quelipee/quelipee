@@ -1,5 +1,5 @@
 ### Hi there 👋
-Sou felipe e estou apredendo laravel
+Sou felipe e estou aprendendo laravel
 
 - 🔭 Estou trabalhando em aprender mais sobre laravel
 - 🌱 Estou aprendendo um novo framework chamado laravel
