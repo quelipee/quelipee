@@ -1,12 +1,27 @@
-### Hi there 👋
-Sou felipe e aqui eu falo um pouco sobre mim
+# Olá, eu sou felipe
 
-- 🔭 Estou trabalhando em aprender mais sobre laravel
-- 🌱 Estou aprendendo um novo framework chamado laravel
-- 👯 Procuro colaborar com projeto php/laravel
-- 🤔 Estou precisando de ajuda em achar conteudo de qualidade
-- 💬 Pergunte me qualquer coisa sobre laravel!
-- 📫 Entre em contato pelo e-mail: felipemateus112012@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Fato engraçado: É nao ter um fato engraçado  
+## Sobre mim
+Tenho 25 anos e sou um desenvolvedor de PHP/Laravel. Atualmente, estou aprendendo sobre Vue.js e Ionic 7 para expandir minhas habilidades. Também utilizo o Tailwind CSS como meu framework de CSS preferido.
+
+## Habilidades e Tecnologias
+
+- Linguagens de Programação: PHP, python
+- Frameworks: Laravel, Vue.js, Ionic 7
+- CSS: Tailwind CSS
+
+## Projetos
+
+Aqui estão alguns projetos em que trabalhei ou estou trabalhando atualmente:
+
+- [Drink-Dash](https://github.com/quelipee/Drink-Dash): Front End de um mini e-commerce sobre bebidas.
+- [Drink-Dash-API](https://github.com/quelipee/DrinkDashAPI): Back End de um mini e-commerce sobre bebidas.
+- [PokeGather](https://github.com/quelipee/PokeAPI---PHP-LARAVEL): Jogo de carta de pokemon, usando a api pokeApi.
+
+## Contato
+
+- Email: seuemail@example.com
+- LinkedIn: [https://www.linkedin.com/in/felipemateus97](https://www.linkedin.com/in/felipemateus97)
+- GitHub: [https://github.com/quelipee](https://github.com/quelipee)
+
+Sinta-se à vontade para entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração!
 
