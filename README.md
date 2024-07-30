@@ -1,7 +1,7 @@
 # Olá, eu sou felipe
 
 ## Sobre mim
-Tenho 25 anos e sou um desenvolvedor de PHP/Laravel. Atualmente, estou aprendendo sobre Vue.js e Ionic 7 para expandir minhas habilidades. Também utilizo o Tailwind CSS como meu framework de CSS preferido.
+Tenho 26 anos e sou um desenvolvedor de PHP/Laravel. Atualmente, estou aprendendo sobre Vue.js e Ionic 7 para expandir minhas habilidades. Também utilizo o Tailwind CSS como meu framework de CSS preferido.
 
 ## Habilidades e Tecnologias
 
