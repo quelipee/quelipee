@@ -19,7 +19,7 @@ Aqui estão alguns projetos em que trabalhei ou estou trabalhando atualmente:
 
 ## Contato
 
-- Email: felipemateus112012@gmail.com
+- Email: felipemateusfks97@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/felipemateus97](https://www.linkedin.com/in/felipemateus97)
 - GitHub: [https://github.com/quelipee](https://github.com/quelipee)
 
