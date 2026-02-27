@@ -30,10 +30,10 @@ class Felipe extends Developer
     public int    $idade     =  28;
     public string $foco      = "Full Stack Web & Mobile";
 
-    public array $amando_agora = [
+    public array $main_stack = [
         "Vue.js",
         "PHP"
-        "Ionic 7",
+        "Laravel",
         "Tailwind CSS",
     ];
 
