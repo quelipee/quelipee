@@ -32,7 +32,7 @@ class Felipe extends Developer
 
     public array $main_stack = [
         "Vue.js",
-        "PHP"
+        "PHP",
         "Laravel",
         "Tailwind CSS",
     ];
