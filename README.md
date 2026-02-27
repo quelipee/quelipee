@@ -26,8 +26,8 @@
 
 class Felipe extends Developer
 {
-    public string $cidade    = "Brasil 🇧🇷";
-    public int    $idade     = 28;
+    public string $cidade    = "Itapeva, São Paulo 🇧🇷";
+    public int    $idade     =  28;
     public string $foco      = "Full Stack Web & Mobile";
 
     public array $amando_agora = [
