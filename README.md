@@ -9,7 +9,7 @@
 
 # Olá, eu sou o Felipe 👋
 
-**`Desenvolvedor Full Stack · PHP/Laravel · Explorando o ecossistema JS`**
+**`Desenvolvedor Full Stack · PHP/Laravel · Aprendendo um pouco a cada dia`**
 
 <br/>
 
