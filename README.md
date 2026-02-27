@@ -80,7 +80,7 @@ class Felipe extends Developer
        Plataforma inteligente para apoio acadêmico, capaz de responder atividades e provas da faculdade por meio de Inteligência Artificial. O projeto utiliza Laravel (PHP) para a API e regras de negócio, e Vue.js para a interface web.
       </p>
       <p align="center">
-        <a href="[https://github.com/quelipee/Drink-Dash](https://github.com/quelipee/ACADIA)">
+        <a href="https://github.com/quelipee/ACADIA">
           <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
         </a>
       </p>
