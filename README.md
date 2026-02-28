@@ -117,11 +117,6 @@ class Felipe extends Developer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=quelipee&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quelipee&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=quelipee&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
 
@@ -138,9 +133,5 @@ class Felipe extends Developer
 <br/>
 
 **Aberto a freelas, colaborações e oportunidades de trabalho!** 🤝
-
-<br/>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=quelipee.quelipee)
 
 </div>
