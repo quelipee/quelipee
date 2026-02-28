@@ -81,7 +81,7 @@ class Felipe extends Developer
       </p>
       <p align="center">
         <a href="https://github.com/quelipee/ACADIA">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github"/>
+          <img src="https://img.shields.io/badge/Ver%20Repositório-FF2D20?style=for-the-badge&logo=github"/>
         </a>
       </p>
     </td>
@@ -92,7 +92,7 @@ class Felipe extends Developer
       </p>
       <p align="center">
         <a href="https://github.com/quelipee/DrinkDashAPI">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Ver%20Repositório-FF2D20?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
     </td>
@@ -105,7 +105,7 @@ class Felipe extends Developer
       </p>
       <p align="center">
         <a href="https://github.com/quelipee/ans-data-scraper">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-FFCB05?style=for-the-badge&logo=pokemon&logoColor=333"/>
+          <img src="https://img.shields.io/badge/Ver%20Repositório-FFCB05?style=for-the-badge&logo=github&logoColor=333"/>
         </a>
       </p>
     </td>
